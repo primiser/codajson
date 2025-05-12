@@ -1,5 +1,6 @@
 {
- "sm": [
+ "banco"{
+ "servidoresMembros": [
          {
         "idPessoa": 567,
         "matricula": 2701,
@@ -242,5 +243,6 @@
     },
    
 ]
+}
 }
  
