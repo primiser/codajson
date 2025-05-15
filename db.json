@@ -1,5 +1,5 @@
 {
-   "banco":{
+
       "servidoresMembros":[
          {
             "idPessoa":567,
@@ -242,5 +242,5 @@
             "situacaoAtual":"ATIVO"
          }
       ]
-   }
+   
 }
